@@ -23,6 +23,6 @@ weight = 5
  
 +++
 
-# Biography
+# About
 
 I am Jiawei Zhao (赵嘉玮), an undergraduate student at Nanjing University of Aeronautics and Astronautics. During my undergraduate, I studied in computer science; with previous research experiences in Distributed Machine Learning (with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [Caltech](http://www.cms.caltech.edu/)) and Active Learning (with [Prof. Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/) at [NUAA](http://parnec.nuaa.edu.cn/)).
