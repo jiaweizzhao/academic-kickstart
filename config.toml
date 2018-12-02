@@ -314,10 +314,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+name = "CV"
+url = "files/cv.pdf"
+weight = 7
 
 # Search.
 [params.search]
@@ -350,12 +350,12 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-[languages.zh]
-languageCode = "zh-Hans"
-title = "嘉玮的学术档案"
-[languages.zh.params]
-name = "赵嘉玮"
-role = "本科生"
+#[languages.zh]
+#languageCode = "zh-Hans"
+#title = "嘉玮的学术档案"
+#[languages.zh.params]
+#name = "赵嘉玮"
+#role = "本科生"
 #[[languages.zh.menu.main]]
 #name = "Wo"
 #url = "#about"
