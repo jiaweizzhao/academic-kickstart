@@ -31,7 +31,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Visiting Undergraduate Research Program"
-  company = "Caltech"
+  company = "California Institute of Technology (Caltech)"
   company_url = ""
   location = "Pasadena, California"
   date_start = "2018-07-09"
