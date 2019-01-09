@@ -9,5 +9,6 @@ publication = "In *Seventh International Conference on Learning Representations 
 publication_short = "In *ICLR*"
 url_code = "https://github.com/PermiJW/signSGD-with-Majority-Vote"
 url_poster = "poster.pdf"
+
 +++
 
