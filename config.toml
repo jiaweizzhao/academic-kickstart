@@ -351,13 +351,35 @@ weight = 7
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#languageCode = "zh-Hans"
-#title = "嘉玮的学术档案"
-#[languages.zh.params]
-#name = "赵嘉玮"
-#role = "本科生"
-#[[languages.zh.menu.main]]
-#name = "Wo"
-#url = "#about"
-#weight = 1
+# Chinese languages
+[languages.zh]
+  languageCode = "zh-Hans"
+  title = "嘉玮的学术档案"
+[languages.zh.params]
+name = "赵嘉玮"
+role = "本科生"
+
+[[languages.zh.menu.main]]
+  name = "关于我"
+  url = "#about"
+  weight = 1
+
+[[languages.zh.menu.main]]
+  name = "出版论文"
+  url = "#publications_selected"
+  weight = 2
+
+[[languages.zh.menu.main]]
+  name = "文章"
+  url = "#posts"
+  weight = 3
+
+[[languages.zh.menu.main]]
+  name = "项目"
+  url = "#projects"
+  weight = 4
+
+[[languages.zh.menu.main]]
+  name = "联系我"
+  url = "#contact"
+  weight = 6
