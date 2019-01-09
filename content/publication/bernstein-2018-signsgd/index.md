@@ -1,6 +1,6 @@
 +++
 title = "signSGD with Majority Vote is Communication Efficient And Byzantine Fault Tolerant"
-date = 2018-01-09
+#date = 2018-01-09
 authors = ["Jeremy Bernstein", "Jiawei Zhao", "Kamyar Azizzadenesheli", "Anima Anandkumar"]
 publication_types = ["1"]
 abstract = ""

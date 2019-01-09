@@ -1,6 +1,6 @@
 +++
 title = "Cost-Effective Training of Deep CNNs with Active Model Adaptation"
-date = 2018-01-01
+#date = 2018-01-01
 authors = ["Sheng-Jun Huang", "Jia-Wei Zhao", "Zhao-Yang Liu"]
 publication_types = ["2"]
 abstract = ""
