@@ -299,6 +299,11 @@ enableGitInfo = false
   weight = 2
 
 #[[menu.main]]
+#  name = "Experience"
+#  url = "#experience"
+#  weight = 3
+
+#[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
 #  weight = 3
