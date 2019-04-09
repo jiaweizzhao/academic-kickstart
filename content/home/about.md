@@ -17,13 +17,13 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "BEc in Computer Science"
-  institution = "Nanjing University of Aeronautics and Astronautics"
+  course = "PhD in Computer Science (Upcoming)"
+  institution = "California Institute of Technology (Caltech)"
   year = 2019
 
 [[education.courses]]
-  course = "PhD in Computer Science (Upcoming)"
-  institution = "California Institute of Technology (Caltech)"
+  course = "BEc in Computer Science"
+  institution = "Nanjing University of Aeronautics and Astronautics"
   year = 2019
  
 +++
