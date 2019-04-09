@@ -15,4 +15,6 @@ weight = 9
 
 +++
 
-I will start my machine learning research internship at NVIDIA in Feb, 2019.
+1. I will start my machine learning research internship at NVIDIA in May, 2019.
+
+2. I will be a PhD student at Caltech in 2019 Fall.
