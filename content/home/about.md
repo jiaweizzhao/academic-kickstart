@@ -16,10 +16,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 
+
 [[education.courses]]
-  course = "PhD in Computer Science (Upcoming)"
+  course = "PhD student in Computing + Mathematical Sciences "
   institution = "California Institute of Technology (Caltech)"
-  year = 2019
+  year = Present
 
 [[education.courses]]
   course = "BEc in Computer Science"
@@ -30,4 +31,4 @@ weight = 5
 
 # About
 
-I am Jiawei Zhao (赵嘉玮), an undergraduate student at Nanjing University of Aeronautics and Astronautics (NUAA). During my undergraduate, I studied in computer science; with previous research experiences in Distributed Machine Learning (with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/)) and Active Learning (with [Prof. Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/) at [NUAA](http://parnec.nuaa.edu.cn/)). I will be a PhD student at Caltech in 2019 Fall.
+I am Jiawei, a PhD student at California Institute of Technology (Caltech). During my undergraduate, I studied in computer science; with previous research experiences in Distributed Machine Learning (with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/)) and Active Learning (with [Prof. Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/) at [NUAA](http://parnec.nuaa.edu.cn/)).

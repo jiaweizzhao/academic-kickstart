@@ -52,18 +52,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Jiawei Zhao"
-  role = "Undergraduate"
+  role = "Ph.D. student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Nanjing University of Aeronautics and Astronautics", url = "" } ]
+  organizations = [ { name = "Caltech", url = "https://www.caltech.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jiaweizhao@nuaa.edu.cn"
-  address = "29 Jiangjun Road, NUAA, Nanjing, China, 211106"
+  email = "jiawei@caltech.edu"
+  address = "1200 E California Blvd, Pasadena, CA 91125"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = ""
   #skype = "echo123"
@@ -108,13 +108,13 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Jiawei Zhao"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "jiawzhao"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -256,7 +256,7 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fas"
     #link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-    link = "mailto:jiaweizhao@nuaa.edu.cn"
+    link = "mailto:jiawei@caltech.edu"
 
 #  [[params.social]]
 #    icon = "twitter"
