@@ -17,10 +17,10 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 
-[[education.courses]]
+<!--[[education.courses]]
   course = "PhD student in Computing + Mathematical Sciences "
   institution = "California Institute of Technology (Caltech)"
-  year = Present
+  year = Present-->
 
 [[education.courses]]
   course = "BEc in Computer Science"
