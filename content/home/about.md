@@ -26,4 +26,4 @@ weight = 5
 
 # About
 
-I am Jiawei, a PhD student at California Institute of Technology (Caltech). During my undergraduate, I studied in computer science; with previous research experiences in Distributed Machine Learning (with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/)) and Active Learning (with [Prof. Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/) at [NUAA](http://parnec.nuaa.edu.cn/)).
+I am Jiawei, a first year PhD student at California Institute of Technology (Caltech). During my undergraduate, I studied in computer science; with previous research experiences in Distributed Machine Learning (with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/)) and Active Learning (with [Prof. Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/) at [NUAA](http://parnec.nuaa.edu.cn/)).
