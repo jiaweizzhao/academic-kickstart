@@ -16,14 +16,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 
-
-[[education.courses]]
-  course = "BEc in Computer Science"
-  institution = "Nanjing University of Aeronautics and Astronautics"
-  year = 2015 - 2029
  
 +++
 
 # About
 
-I am Jiawei, a first year Ph.D. student at California Institute of Technology (Caltech). During my undergraduate, I studied in computer science; with previous research experiences in Distributed Machine Learning (with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/)) and Active Learning (with [Prof. Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/) at [NUAA](http://parnec.nuaa.edu.cn/)).
+I am Jiawei, a first year Ph.D. student working with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/). I am interested in machine learning, especially in optimization and efficient training algorithms. 
