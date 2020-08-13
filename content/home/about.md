@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "BEc in Computer Science"
   institution = "Nanjing University of Aeronautics and Astronautics"
-  year = 2019
+  year = 2015 - 2029
  
 +++
 
