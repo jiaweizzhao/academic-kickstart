@@ -21,4 +21,4 @@ weight = 5
 
 # About
 
-I am Jiawei, a first year Ph.D. student working with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/). I am interested in machine learning, especially in optimization and efficient training algorithms. 
+I am Jiawei, a Ph.D. student working with [Prof. Animashree Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) at [California Institute of Technology (Caltech)](http://www.cms.caltech.edu/). I am interested in machine learning, especially in optimization and efficient training algorithms. 
