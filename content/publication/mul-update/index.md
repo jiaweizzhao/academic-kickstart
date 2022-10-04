@@ -6,7 +6,7 @@ publication_types = ["1"]
 abstract = ""
 selected = true
 publication = "In *Advances in Neural Information Processing Systems*."
-publication_short = "In *NeurIPS 2020*"
+publication_short = "In *NeurIPS*"
 url_code = "https://github.com/jxbz/madam"
 
 +++
