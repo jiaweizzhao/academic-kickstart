@@ -5,7 +5,7 @@ authors = ["Jiawei Zhao", "Steve Dai", "Rangharajan Venkatesan", "Brian Zimmer",
 publication_types = ["1"]
 abstract = ""
 selected = true
-publication = "In *IEEE Transactions on Computers, 2022*, doi: 10.1109/TC.2022.3202747"
+publication = "In *IEEE Transactions on Computers, 2022*."
 publication_short = "In *IEEE TC*"
 
 +++
