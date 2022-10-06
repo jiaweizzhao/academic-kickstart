@@ -1,6 +1,6 @@
 +++
 title = "ZerO Initialization: Initializing Neural Networks with only Zeros and Ones"
-date = 2022-9-01
+date = 2022-09-01
 authors = ["Jiawei Zhao", "Florian Schaefer", "Anima Anandkumar"]
 publication_types = ["1"]
 abstract = ""
